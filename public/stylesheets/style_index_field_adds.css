@@ -1,0 +1,94 @@
+/*rgb(222, 241, 222)*/
+
+/*#temp{
+	border: 2px;
+	border-style: solid;
+	border-color: #d1011b;
+}*/
+
+
+body{
+  background-color: rgb(255, 255, 255);
+}
+
+
+.header{
+  margin-top: 25px;
+  margin-left: 30px;
+}
+
+
+.navbar{
+	z-index: 1;
+	width: 100%;
+	margin-top: 45px;
+	/*background-color: rgb(213, 235, 213) !important;*/
+  background-color: rgb(222, 241, 222) !important;
+}
+.nav-link{
+	margin-left: 425px;
+	/*margin-right: 50px;*/
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	color: black !important;
+}
+.nav-link:hover{
+	color: #1d361d!important;
+	font-weight: bold;
+}
+
+
+.sub-header{
+  margin-top: 90px;
+  text-align: center;
+}
+
+
+.home_info{
+  margin-left: 45px;
+  margin-right: 45px;
+}
+
+
+/*#addField_btn{
+  margin-left: 45px;
+  margin-right: 45px;
+}*/
+
+
+input{
+  width: 130px;
+}
+
+
+hr{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+
+/*.add_submit{
+  margin-left: 20px;
+}
+
+.add_cancel{
+  margin-left: 20px;
+}*/
+
+
+/*.add_box{
+  position: absolute;
+  height: 420px;
+  width: 410px;
+  border:0px solid black;
+  border-radius:25px;
+  background-color: rgba(148, 230, 255, 0.623);
+  z-index: -1;
+  top: 290px;
+  left: 750px;
+}*/
+.add_box{
+  /*border:0px solid black;
+  border-radius:25px;*/
+  background-color: rgba(148, 230, 255, 0.623)!important;
+}
